@@ -1,0 +1,11 @@
+ Instructions
+
+Dear Students,
+
+As discussed in the class on 28th April 2022. Each student is required to come up with at least 4 features of text (document) that can be used to train the decision tree classifier (or any other classifier). You do not have to submit anything, we will discuss this in the class. Each student should know why he/she chose each feature and why they think it is useful. 
+
+Note:
+
+    Each student will be marked based on the discussion during the class. Any student who misses the class will get zero marks.
+    This activity will be performed in the class on 17th May 2022.
+
